@@ -13,7 +13,7 @@ or
     
 Example:
 
-pm install-existing com.android.browser
+    pm install-existing com.android.browser
 
 
 Note: This requires ADB drivers in your PC and USB Debugging enabled in your Android.
