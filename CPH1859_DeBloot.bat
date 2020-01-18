@@ -2,9 +2,8 @@
 @echo off
 adb start-server
 cls
-echo.
 echo ---------------------------------------------------------------------------------------------------------------
-echo A small file for removing blootware from my phone.
+echo A bat file to remove some bloatware in Realme 1.
 echo Press any key to continue.
 echo ---------------------------------------------------------------------------------------------------------------
 pause >nul
@@ -31,6 +30,6 @@ adb uninstall  --user 0 com.google.android.youtube
 adb uninstall  --user 0 com.realme.logtool
 adb shell pm disable-user --user 0 com.coloros.gamespace
 adb shell pm disable-user --user 0 com.nearme.gamecenter
-echo Done! Press any key to continue.
+echo Done! You can now exit, press a key.
 pause >nul              
 exit
