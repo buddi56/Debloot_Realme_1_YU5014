@@ -1,9 +1,9 @@
-@title Debloot Realme 1
+@title Debloot YU Ace
 @echo off
 adb start-server
 cls
 echo ---------------------------------------------------------------------------------------------------------------
-echo A bat file to remove some bloatware in Realme 1.
+echo A bat file to remove some bloatware in YU Ace.
 echo Press any key to continue.
 echo ---------------------------------------------------------------------------------------------------------------
 pause >nul
