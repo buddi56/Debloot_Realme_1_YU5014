@@ -28,6 +28,9 @@ adb uninstall  --user 0 com.coloros.backuprestore
 adb uninstall  --user 0 com.coloros.phonemanager
 adb uninstall  --user 0 com.google.android.youtube
 adb uninstall  --user 0 com.realme.logtool
+adb uninstall  --user 0 com.oppo.qualityprotect
+adb uninstall  --user 0 com.oppo.partnerbrowsercustomizations
+adb uninstall  --user 0 com.oppo.usercenter
 adb uninstall  com.google.android.apps.tachyon
 adb uninstall  com.google.android.videos
 adb uninstall  com.google.android.music
