@@ -17,3 +17,5 @@ Example:
 
 
 Note: This requires ADB drivers in your PC and USB Debugging enabled in your Android.
+
+Block Internet for stock Apps (Gallery app for example) that are in continuous sync with oppo servers. Use [Netguard](https://f-droid.org/en/packages/eu.faircode.netguard/) or [TrackerControl](https://f-droid.org/en/packages/net.kollnig.missioncontrol.fdroid/) or any other that you like.
